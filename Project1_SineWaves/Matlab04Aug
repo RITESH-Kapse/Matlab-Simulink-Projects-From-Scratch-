@@ -1,0 +1,20 @@
+
+Today's learnings 04 Aug	 :
+Matlab :
+1. Matlab as simple calculator
+2. 
+
+
+
+Simulink Projects :
+1. Generate , display and export Sine Waves.
+
+	Add two signals in simulink.
+	Generate Sine wave and tune its parameters.
+	Change model configuration parameters.
+	export variable in workspace and plot it.
+	Magnify signal using gain multiplier.
+	
+	To plot variable in matlab console  --> plot(variablename.Data)
+	
+	
